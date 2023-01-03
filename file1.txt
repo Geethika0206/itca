@@ -1,1 +1,2 @@
 "ITCA Training" 
+"This is the Training regarding git and github.Git is a version control system and open source tool." 
